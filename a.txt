@@ -5,3 +5,5 @@ esta linha modificada ramo projetoPan
 
 novas alterações do projeto branch novoProjetoPan
 alteração local arquivo a conflito com rede
+nova linha de outra pessoa
+
