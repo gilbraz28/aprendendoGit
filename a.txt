@@ -1,3 +1,4 @@
 fteste
 entendendo o HEAD
 esta linha adicionada na master tento alterações no projetoPan branch
+esta linha modificada ramo projetoPan

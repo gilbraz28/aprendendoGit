@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 mesmo codigo adicionado master
+=======
+mesmo codigo
+>>>>>>> projetoPan
