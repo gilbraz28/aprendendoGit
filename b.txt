@@ -1,5 +1,4 @@
-<<<<<<< HEAD
 mesmo codigo adicionado master
-=======
-mesmo codigo
->>>>>>> projetoPan
+
+novos codigos e exclusões de códigos
+novas alterções seguindo
